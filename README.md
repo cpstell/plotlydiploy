@@ -1,3 +1,3 @@
 # plotlydiploy
 
-[link to deployed webpage](https://cpstell.github.io/plotydiploy/)
+[link to deployed webpage](https://cpstell.github.io/plotlydiploy/)
